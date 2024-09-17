@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    Padding:0;
+    box-sizing: border-box;
+}
+body{
+    background-color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color:blue;
+}
+a{
+    color: hsl(0, 94%, 27%);
+    text-decoration: none;
+}
+#sub2, #sub3{
+    margin-top: 800px;
+}
+a:hover{
+    background-color: red;
+    color: aliceblue;
+}
